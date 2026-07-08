@@ -1,0 +1,20 @@
+"I felt the biggest 'quality jump' at Step 4 (Constraints), because the AI stopped giving generic, copy-paste fitness advice and tailored the plan exactly to a desk-bound lifestyle with quick recipes."
+
+"Also, the element I will use most often is [Constraints] because it sets the boundaries of what the AI can and cannot do, preventing  unrealistic outputs."
+
+
+
+"I think adding a daily 1-hour buffer time at the end of the schedule and strict 50/10 screen-free break intervals is key to making this plan realistic because it prevents the 'domino effect' where one unexpected delay ruins the whole day, and it keeps cognitive fatigue minimum for long-term focus."
+
+
+
+
+I intentionally designed the [Constraints] to limit study hours and add break times because it stops plans from failing when unexpected delays happen. The reason I chose [Course Difficulty] for the [Input Specification] was to prevent the AI from putting too many hard engineering tasks on the same day.
+
+
+
+Initially, the AI forgot the 4-hour daily limit on Tuesday and Wednesday, so I plan to refine the [Constraints] section by making the mathematical limits bolder and more direct to improve accuracy
+
+
+By adjusting the [Constraints] section, I was able to solve the problem of AI forgetting the daily limits, resulting in a plan that is realistic and very easy to follow.
+

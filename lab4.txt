@@ -1,0 +1,14 @@
+To solve this task perfectly, the AI must first analyze the target audience and low-budget constraints, then define the strategic marketing directions, and finally generate actionable customer-loyalty ideas
+
+Prompt A produced a result that felt superficial and generic because the AI Missed the specific constraint of keeping every idea under exactly 2 sentences and analyzing the situation before listing ideas
+
+
+
+By using Step-by-Step instructions, the AI was able to build a solid analytical foundation first by profiling customers and risks, which was missing in the general approach of Prompt A.
+
+
+The biggest difference was strategic depth and constraint control. While Prompt A felt like a random brainstorming list, Prompt B provided a structured, business-ready solution because it forced the AI to analyze the environment before jumping into actions and strictly respect the sentence length limits
+
+
+
+I will use Prompt A when I need quick, rough ideas or low-complexity, simple tasks where logical order is not critical, and Prompt B when I am dealing with complex, multi-step business problems that require strategic depth and strict constraint control to ensure my AI outcomes are always testable, highly structured, and ready for production use
